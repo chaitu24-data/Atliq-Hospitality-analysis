@@ -9,7 +9,7 @@ This project focuses on analyzing key hospitality metrics for **Atliq Hotels**, 
 ## 📊 Dataset Details
 The project utilizes multiple datasets related to hotel bookings:
 - [dim date.csv]() - Date-related details.
-- [dim hotels.csv]() - Information about different hotel properties.
+- [dim hotels.csv](https://github.com/chaitu24-data/Atliq-Hospitality-analysis/blob/main/dim_hotels.csv) - Information about different hotel properties.
 - [dim rooms.csv](https://github.com/chaitu24-data/Atliq-Hospitality-analysis/blob/main/dim_rooms.csv) - Room types and classifications.
 - [fact_aggregated_bookings.csv](https://github.com/chaitu24-data/Atliq-Hospitality-analysis/blob/main/fact_aggregated_bookings.csv) - Summarized booking data.
 - [fact bookings.csv](https://github.com/chaitu24-data/Atliq-Hospitality-analysis/blob/main/fact_bookings.csv) - Detailed transactional booking data.

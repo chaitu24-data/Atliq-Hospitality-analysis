@@ -11,7 +11,7 @@ The project utilizes multiple datasets related to hotel bookings:
 - [dim date.csv]() - Date-related details.
 - [dim hotels.csv]() - Information about different hotel properties.
 - [dim rooms.csv]() - Room types and classifications.
-- [fact_aggregated_bookings.csv]() - Summarized booking data.
+- [fact_aggregated_bookings.csv](https://github.com/chaitu24-data/Atliq-Hospitality-analysis/blob/main/fact_aggregated_bookings.csv) - Summarized booking data.
 - [fact bookings.csv]() - Detailed transactional booking data.
 
 ## 🔍 Key Insights
